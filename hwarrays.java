@@ -57,7 +57,5 @@ public class hwarrays{
             System.out.println();
        }
 
-       sc.close();
-
     }    
 }
